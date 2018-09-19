@@ -2,4 +2,7 @@
 
 "My name is Ricky, and this is my first time using the IDE."
 
+"Just testing this out for practice purposes, no serious coding goign on here yet."
+
+"However, Jaylen Brown is still the future of the Boston Celtics."
 
