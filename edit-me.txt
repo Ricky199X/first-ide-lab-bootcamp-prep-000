@@ -1,1 +1,5 @@
 "Hello, world!"
+
+"My name is Ricky, and this is my first time using the IDE."
+
+
